@@ -35,4 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Screenshots
 
-![Home](/screenshots/home.png?raw=true&sanitize=true 'Home')
+![Home](/screenshots/home.png?raw=true&sanitize=true)
